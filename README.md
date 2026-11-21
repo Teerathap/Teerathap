@@ -1,16 +1,21 @@
-## Hi there 👋
+# Teerathap Yaisungnoen
 
-<!--
-**Teerathap/Teerathap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chief Product Officer at [RIFFAI](https://www.riffai.org). I lead product across RIFFAI's satellite and geospatial AI platforms for agriculture, water, energy, environment and defense.
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/teerathap-yaisungnoen) · [ORCID](https://orcid.org/0009-0003-0133-2154) · yaisungnoen.t@riffai.org
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### At RIFFAI
+
+**Product.** Roadmap and delivery across RIFFAI's platforms, from client requirements to shipped features.
+
+**Satellite data.** Pipelines that turn optical and SAR imagery into analysis-ready layers for crop, water and solar products.
+
+**Machine learning.** Earth observation models for crop and soil analytics, rooftop solar and change detection.
+
+**Engineering systems.** How the team plans, hands off and ships work across several client projects at once.
+
+### Tools
+
+Python · Google Earth Engine · GeoPandas · TypeScript · C / C++ · MATLAB
